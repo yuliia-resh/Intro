@@ -1,0 +1,19 @@
+.navbar {
+    width: 20%;
+    padding: 10px 0;
+    background-color: rgb(211, 185, 154);
+}
+
+.navItem {
+    display: block;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.navItem:hover {
+    color: sienna;
+}
+
+.active {
+    color: whitesmoke;
+}
